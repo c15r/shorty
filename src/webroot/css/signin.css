@@ -1,0 +1,25 @@
+body {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #eee;
+}
+		
+.form-signin {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+			
+.form-signin .form-control {
+	font-size: 14pt;
+	height: auto;
+	padding: 10px;
+}
+			
+.form-signin .form-control[type='text'] {
+	margin-bottom: 5px;
+}
+			
+.form-signin .form-control[type='password'] {
+	margin-bottom: 15px;
+}
